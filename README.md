@@ -1,4 +1,4 @@
-##Laravel Colors for iTerm 2
+# Laravel Colors for iTerm 2
 
 ![](https://raw.githubusercontent.com/nsouto/iterm_laravel_theme/master/screenshots/iterm2.png)
 
