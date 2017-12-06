@@ -17,4 +17,4 @@ lower right corner)
 
 Created by [Nuno Souto](https://twitter.com/nsouto).
 
-Thanks to [Jack McDade](https://twitter.com/jackmcdade) creating the original theme as presented in the docs, [Michael Dyrynda](https://twitter.com/michaeldyrynda) for the [Sublime Text 3](https://github.com/michaeldyrynda/Laravel.tmTheme) adaptation and [Taylor Otwell](https://twitter.com/taylorotwell) for creating the framework.
+Thanks to [Jack McDade](https://twitter.com/jackmcdade) for creating the original theme as presented in the docs, [Michael Dyrynda](https://twitter.com/michaeldyrynda) for the [Sublime Text 3](https://github.com/michaeldyrynda/Laravel.tmTheme) adaptation and [Taylor Otwell](https://twitter.com/taylorotwell) for creating the framework.
